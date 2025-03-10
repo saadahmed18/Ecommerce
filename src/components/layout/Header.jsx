@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <>
       <header className="py-7">
-        <div className="container m-auto flex gap-10 justify-center items-center">
+        <div className="container m-auto px-4 flex justify-between items-center">
           <div>
             <Link className="text-black font-bold text-2xl">Cyber</Link>
           </div>
